@@ -43,6 +43,36 @@
       "name": "code",
       "asset": "rbxassetid://11419714821",
       "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/code.png"
+    },
+    {
+      "name": "lock",
+      "asset": "rbxassetid://14187755345",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/lock.png"
+    },
+    {
+      "name": "close",
+      "asset": "rbxassetid://11293981586",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/x.png"
+    },
+    {
+      "name": "menu",
+      "asset": "rbxassetid://11295285432",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/menu.png"
+    },
+    {
+      "name": "refresh",
+      "asset": "rbxassetid://11293978505",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/refresh.png"
+    },
+    {
+      "name": "search",
+      "asset": "rbxassetid://11293977875",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/search.png"
+    },
+    {
+      "name": "ellipsis-vertical",
+      "asset": "rbxassetid://12974354535",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/ellipsis-vertical.png"
     }
   ]
 }
