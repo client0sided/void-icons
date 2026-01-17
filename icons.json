@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "name": "Roblox Icon Pack",
+    "version": "1.0.0"
+  },
+  "icons": [
+    {
+      "name": "clip",
+      "asset": "rbxassetid://11419720347",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/clip.png"
+    },
+    {
+      "name": "dashboard",
+      "asset": "rbxassetid://11295288868",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/dashboard.png"
+    },
+    {
+      "name": "users",
+      "asset": "rbxassetid://11432832657",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/users.png"
+    },
+    {
+      "name": "announce",
+      "asset": "rbxassetid://12966403319",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/announcement.png"
+    },
+    {
+      "name": "user-close",
+      "asset": "rbxassetid://11419666512",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/user-close.png"
+    },
+    {
+      "name": "network",
+      "asset": "rbxassetid://11293979388",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/network.png"
+    }
+  ]
+}
