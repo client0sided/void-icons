@@ -33,6 +33,16 @@
       "name": "network",
       "asset": "rbxassetid://11293979388",
       "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/network.png"
+    },
+    {
+      "name": "particle",
+      "asset": "rbxassetid://12974219084",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/particle.png"
+    },
+    {
+      "name": "code",
+      "asset": "rbxassetid://11419714821",
+      "svg": "https://uploads.onecompiler.io/43c9uw5sk/44av57d4w/code.png"
     }
   ]
 }
